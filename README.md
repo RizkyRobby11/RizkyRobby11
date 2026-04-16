@@ -1,16 +1,24 @@
-## Hi there 👋
+# Halo, saya Rizky! 👋
 
-<!--
-**RizkyRobby11/RizkyRobby11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Teknik Informatika Universitas Gunadarma (Semester 10)
+💼 Ex-Backend Intern @ Kementerian Koperasi RI
+📍 Depok, Indonesia
 
-Here are some ideas to get you started:
+## 🛠️ Yang saya kuasai
+- **Backend:** Python, Flask, REST API, Laravel
+- **Mobile:** Flutter & Dart
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Git, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyek yang pernah saya buat
+- 📦 Aplikasi pemesanan Android untuk Toko NR Jaya (Flutter)
+- ✈️ Landing page travel agent (HTML/CSS/JS)
+- 🔍 Integrasi OCR pada sistem backend pemerintah (Flask)
+
+## 📫 Hubungi saya
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-rizky-a-a193b122b/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mhmdrzkyangrh@gmail.com)
+
+---
+⚡ *"Selalu ada solusi, tinggal cari caranya!"*
