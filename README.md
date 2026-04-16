@@ -17,7 +17,7 @@
 - 🔍 Integrasi OCR pada sistem backend pemerintah (Flask)
 
 ## 📫 Hubungi saya
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-rizky-a-a193b122b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-rizky-anugrah-robby-a193b122b/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mhmdrzkyangrh@gmail.com)
 
 ---
