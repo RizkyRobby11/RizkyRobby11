@@ -1,6 +1,6 @@
 # Halo, saya Rizky! 👋
 
-🎓 Mahasiswa Teknik Informatika Universitas Gunadarma (Semester 10)
+🎓 S1 Teknik Informatika Universitas Gunadarma (IPK 3.57)
 💼 Ex-Backend Intern @ Kementerian Koperasi RI
 📍 Depok, Indonesia
 
